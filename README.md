@@ -16,3 +16,5 @@
 
 ## Связаться со мной 🌍
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/michelin_90)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelin90&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
